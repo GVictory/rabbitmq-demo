@@ -17,7 +17,7 @@
     <version>1.0-SNAPSHOT</version>
 
     <properties>
-        <rabbitmq.verson>5.9.0</rabbitmq.verson>
+        <rabbitmq.verson>5.18.0</rabbitmq.verson>
         <slf4j-simple.version>1.8.0-beta4</slf4j-simple.version>
     </properties>
 
